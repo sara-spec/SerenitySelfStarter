@@ -18,11 +18,19 @@ REST API testing with RestAssured.
 Highly readable, maintainable and scalable automated testing with the Screenplay pattern.
 
 Steps to get started
+
 Clone or download the project into your IntelliJ.
+
 Set up your project JDK if asked by going to File -->Project Structure --> Select JDK Verion You have
+
 Click maven on the right side of IntelliJ
+
 lifecycle -- clean
+
 lifecycle -- verify
+
 Alternatively open your terminal and run below
+    
     mvn clean verify
+
 from the console click on the link for report and open in chrome
